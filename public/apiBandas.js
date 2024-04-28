@@ -1,5 +1,6 @@
 const apiBandas = [
   {
+    id: 1,
     name: "La Renga",
     "año de creacion": "1982",
     discografia: [
@@ -44,7 +45,7 @@ const apiBandas = [
         año: 2014,
       },
     ],
-    "imagen de la banda": "./images/Bandas/la renga.jpeg",
+    "imagen de la banda": "./images/Bandas/larenga.jpeg",
   },
   {
     name: "Cielo Razzo",
@@ -79,7 +80,7 @@ const apiBandas = [
         año: 2018,
       },
     ],
-    "imagen de la banda": "./images/Bandas/cielo razzo.png",
+    "imagen de la banda": "./images/Bandas/cielorazzo.png",
   },
   {
     name: "Patricio Rey y sus Redonditos de Ricota",
@@ -114,7 +115,7 @@ const apiBandas = [
         año: 1998,
       },
     ],
-    "imagen de la banda": "./images/Bandas/los redondos.jpg",
+    "imagen de la banda": "./images/Bandas/losredondos.jpg",
   },
   {
     name: "Divividos",
@@ -196,7 +197,7 @@ const apiBandas = [
         año: 2007,
       },
     ],
-    "imagen de la banda": "./images/Bandas/los piojos.jpeg",
+    "imagen de la banda": "./images/Bandas/lospiojos.jpeg",
   },
   {
     name: "Soda Estereo",
@@ -235,7 +236,7 @@ const apiBandas = [
         año: 1996,
       },
     ],
-    "imagen de la banda": "./images/Bandas/soda estereo.png",
+    "imagen de la banda": "./images/Bandas/sodaestereo.png",
   },
 ];
 export default apiBandas;
