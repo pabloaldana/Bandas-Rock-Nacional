@@ -48,6 +48,7 @@ const apiBandas = [
     "imagen de la banda": "./images/Bandas/larenga.jpeg",
   },
   {
+    id: 2,
     name: "Cielo Razzo",
     creacion: "1976",
     discografia: [
@@ -83,6 +84,7 @@ const apiBandas = [
     "imagen de la banda": "./images/Bandas/cielorazzo.png",
   },
   {
+    id: 3,
     name: "Patricio Rey y sus Redonditos de Ricota",
     creacion: "1976",
     discografia: [
@@ -118,6 +120,7 @@ const apiBandas = [
     "imagen de la banda": "./images/Bandas/losredondos.jpg",
   },
   {
+    id: 4,
     name: "Divividos",
     "año de creacion": "",
     discografia: [
@@ -161,6 +164,7 @@ const apiBandas = [
     "imagen de la banda": "./images/Bandas/divididos.png",
   },
   {
+    id: 5,
     name: "Los Piojos",
     "año de creacion": "",
     discografia: [
@@ -200,6 +204,7 @@ const apiBandas = [
     "imagen de la banda": "./images/Bandas/lospiojos.jpeg",
   },
   {
+    id: 6,
     name: "Soda Estereo",
     "año de creacion": "",
     discografia: [
