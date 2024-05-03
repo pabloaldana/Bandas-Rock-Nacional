@@ -10,7 +10,7 @@ const Card = ({ banda }) => {
     //navigate(`${ROUTES.detalles}/${banda.id}`);
     //navigate(`${ROUTES.detalles}`);
   };
-  console.log(banda.id);
+  // console.log(banda.id);
   return (
     <button
       className="w-96 h-72 bg-gray-200 rounded-lg shadow-lg flex flex-col justify-center items-center"

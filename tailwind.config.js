@@ -9,6 +9,7 @@ module.exports = {
         facebook: "url('/public/images/Redes/facebook.png')",
         twitter: "url('/public/images/Redes/twitter.png')",
         youtube: "url('/public/images/Redes/youtube.png')",
+        guitarraHome: "url('/public/images/guitarraHome.png')",
       },
     },
   },
