@@ -11,7 +11,7 @@ const Footer = () => {
           >
             <img
               className="w-10 h-10"
-              src="images/Redes/facebook.png"
+              src={`${process.env.PUBLIC_URL}/images/Redes/facebook.png`}
               alt="Facebook"
             />
           </a>
@@ -22,7 +22,7 @@ const Footer = () => {
           >
             <img
               className="w-10 h-10"
-              src="images/Redes/instagram.png"
+              src={`${process.env.PUBLIC_URL}/images/Redes/instagram.png`}
               alt="Instagram"
             />
           </a>
@@ -33,7 +33,7 @@ const Footer = () => {
           >
             <img
               className="w-10 h-10"
-              src="images/Redes/twitter.png"
+              src={`${process.env.PUBLIC_URL}/images/Redes/twitter.png`}
               alt="Twitter"
             />
           </a>
@@ -44,7 +44,7 @@ const Footer = () => {
           >
             <img
               className="w-10 h-10"
-              src="images/Redes/youtube.png"
+              src={`${process.env.PUBLIC_URL}/images/Redes/youtube.png`}
               alt="YouTube"
             />
           </a>
@@ -53,7 +53,11 @@ const Footer = () => {
       </div>
 
       <div className="flex justify-center">
-        <img className="w-20 h-20" src="images/guitarra.png" alt="Guitarra" />
+        <img
+          className="w-20 h-20"
+          src={`${process.env.PUBLIC_URL}/images/guitarra.png`}
+          alt="Guitarra"
+        />
       </div>
 
       <p>© 2024 Todos los derechos reservados</p>
