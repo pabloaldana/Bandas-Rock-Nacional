@@ -41,7 +41,7 @@ function Home() {
         </div>
         <div className="flex flex-wrap justify-center gap-4 p-6 ">
           {filteredBandas.length === 0 ? (
-            <p className="text-white border border-red-900 w-96 text-xl border-4">
+            <p className="text-white border-red-900 w-96 text-xl border-4">
               No se encontraron bandas.
             </p>
           ) : (
