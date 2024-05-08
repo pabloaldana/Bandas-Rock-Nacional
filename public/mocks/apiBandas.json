@@ -5,8 +5,12 @@
     "año de creacion": "1982",
     "integrantes":[
       {
-      "nombre":"Gustavo *Chizzo's* Napoli",
+      "nombre":"Gustavo *Chizzo's Napoli",
       "foto":"https://upload.wikimedia.org/wikipedia/commons/3/36/Ricardo_Mollo.jpg"
+      },
+      {
+        "nombre":"integrante 2",
+        "foto":"https://upload.wikimedia.org/wikipedia/commons/3/36/Ricardo_Mollo.jpg"
       }
     ],
     "discografia": [
