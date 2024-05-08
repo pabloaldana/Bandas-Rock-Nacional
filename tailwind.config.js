@@ -12,6 +12,9 @@ module.exports = {
         guitarraHome: "url('/public/images/guitarraHome.png')",
       },
     },
+    fontFamily: {
+      sans: ["Roboto Condensed", "sans-serif"],
+    },
   },
   plugins: [],
 };

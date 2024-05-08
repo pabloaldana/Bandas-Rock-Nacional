@@ -39,8 +39,8 @@ function Detalles() {
 
       <div className="flex-grow bg-cover bg-center bg-black ">
         {banda && (
-          <div className="mt-4">
-            <h1 className="capitalize underline decoration-solid text-4xl text-white">
+          <div className="mt-4 ">
+            <h1 className="font-sans underline text-4xl text-white ">
               {banda.name}
             </h1>
 
@@ -49,7 +49,7 @@ function Detalles() {
                 {banda.descripcion.split("\n").map((paragraph, index) => (
                   <p
                     key={index}
-                    className="text-lg text-left text-white text-[20px]"
+                    className="text-lg text-left text-white text-[20px] font-sans"
                   >
                     {paragraph}
                   </p>
@@ -60,7 +60,7 @@ function Detalles() {
             <div className="mt-5 py-5">
               {banda.integrantes && (
                 <div>
-                  <h2 className="text-white text-2xl">Integrantes</h2>
+                  <h2 className="text-white text-2xl font-sans">Integrantes</h2>
                   <div className="flex flex-wrap justify-center">
                     {banda.integrantes.map((integrante, index) => (
                       <div
@@ -72,7 +72,7 @@ function Detalles() {
                           alt={integrante.nombre}
                           className="w-40 h-40 object-cover rounded-full"
                         />
-                        <p className=" mt-2">{integrante.nombre}</p>
+                        <p className=" mt-2 font-sans">{integrante.nombre}</p>
                       </div>
                     ))}
                   </div>
@@ -80,7 +80,7 @@ function Detalles() {
               )}
             </div>
             <div id="discografia" className="mb-5">
-              <h3 className="text-white text-2xl">Discografía</h3>
+              <h3 className="text-white text-2xl font-sans">Discografía</h3>
               <div className="flex flex-wrap justify-center">
                 {banda.discografia.map((album, index) => (
                   <div
@@ -92,7 +92,7 @@ function Detalles() {
                       alt={album.album}
                       className="w-40 h-40 object-cover rounded-lg"
                     />
-                    <p className="mt-2 text-white">
+                    <p className="mt-2 text-white font-sans">
                       {album.album} ({album.año})
                     </p>
                   </div>
