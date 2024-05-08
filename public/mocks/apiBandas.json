@@ -45,7 +45,8 @@
         "año": 2014
       }
     ],
-    "imagen de la banda": "./images/Bandas/larenga.jpeg"
+    "imagen de la banda": "./images/Bandas/larenga.jpeg",
+    "descripcion": "La Renga es una banda de rock argentino formada en Mataderos, Buenos Aires, en 1988. Está compuesta por Chizzo (guitarra y voz), Tete (bajo) y Tanque (batería). Su música se caracteriza por un estilo potente y enérgico que fusiona elementos de rock, hard rock y blues rock. La banda ha ganado una enorme base de seguidores gracias a sus letras poéticas y reflexivas, así como a sus poderosas actuaciones en vivo. A lo largo de su carrera, La Renga ha sido reconocida por abordar una amplia gama de temas en sus canciones, desde la crítica social hasta la introspección personal.Con su estilo inconfundible y su ferviente base de seguidores, La Renga continúa siendo una fuerza dominante en el panorama musical argentino, demostrando su perdurable relevancia y su compromiso con la autenticidad artística."
   },
   {
     "id": "2",
@@ -81,7 +82,8 @@
         "año": 2018
       }
     ],
-    "imagen de la banda": "./images/Bandas/cielorazzo.png"
+    "imagen de la banda": "./images/Bandas/cielorazzo.png",
+    "descripcion": "Cielo Razzo es una banda de rock argentina que se formó en 1996 en la ciudad de Rosario. Está compuesta por Cristian Narváez (voz), Pablo Pino (guitarra), Diego Aput (guitarra), Fernando Aime (bajo) y Javier Robledo (batería). Su música se caracteriza por un estilo potente y enérgico que fusiona elementos del rock alternativo, grunge y post-punk.    La banda ha logrado ganarse un lugar destacado en la escena del rock argentino gracias a su sonido distintivo y sus letras introspectivas. A lo largo de su carrera, Cielo Razzo ha cautivado a audiencias de todas las edades con sus poderosas presentaciones en vivo y su habilidad para conectar con el público."
   },
   {
     "id": "3",
@@ -117,51 +119,83 @@
         "año": 1998
       }
     ],
-    "imagen de la banda": "./images/Bandas/losredondos.jpg"
+    "imagen de la banda": "./images/Bandas/losredondos.jpg",
+    "descripcion": ""
   },
   {
     "id": "4",
     "name": "Divividos",
     "año de creacion": "",
+    "integrantes": [
+      {
+        "nombre": "Ricardo Mollo",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ricardo_Mollo.jpg"
+      },
+      {
+        "nombre": "Diego Arnedo",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/2/2e/ArnedoCondor.jpg"
+      },
+      {
+        "nombre": "Catriel Ciavarella",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Catriel_Ciavarella_%282015%29.jpg"
+      }
+    ],
     "discografia": [
       {
         "album": "40 dibujos ahí en el piso",
+        "imagen": "",
         "año": 1989
       },
       {
         "album": "Acariciando lo áspero",
+        "imagen": "",
         "año": 1991
       },
       {
         "album": "La era de la boludez",
+        "imagen": "",
         "año": 1993
       },
       {
         "album": "Otroletravaladna",
+        "imagen": "",
         "año": 1995
       },
       {
         "album": "Narigón del siglo",
+        "imagen": "",
         "año": 1999
       },
       {
         "album": "Vengo del placard de otro",
+        "imagen": "",
         "año": 2000
       },
       {
         "album": "Viveza criolla",
+        "imagen": "",
         "año": 2002
       },
       {
         "album": "Amapola del 66",
+        "imagen": "",
         "año": 2010
       },
       {
         "album": "Audio y agua",
+        "imagen": "",
         "año": 2019
       }
     ],
-    "imagen de la banda": "./images/Bandas/divididos.png"
+    "imagenes": [
+      "https://enagenda.com.ar/uploads/noticias/5/2022/10/20221012110921_divididos.png",
+      "https://storage.lacapitalmdp.com/2017/11/2017-11-21-PHOTO-00000252-1024x682.jpg",
+      "https://storage.lacapitalmdp.com/2017/11/2017-11-21-PHOTO-00000253-1024x682.jpg",
+      "https://infonews.com/datos/fotos/2023/12/07/413299-10/imagen_59371.jpg",
+      "https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
+    ],
+    "imagen de la banda": "./images/Bandas/divididos.png",
+    "descripcion": "“En el Oeste está el agite”, es una de las célebres frases que nos regaló Divididos. Sin duda, en el Oeste hay algo especial, difícil de describir, como una fuente de inspiración que permitió la explosión de músicos y bandas de rock. Sumo, y la continuación de Divididos y Las Pelotas es un ejemplo de todo eso.\n Ricardo Mollo nació el 17 de agosto de 1957 en Pergamino. Un incendio en la fábrica de zapatos de su papá, obligó a la familia a buscar nuevas oportunidades. Así, llegaron a una casa en El Palomar, donde desarrolló gran parte de su infancia y adolescencia. Sus primeros pasos en la música fueron a los 12 años, tocando y ensayando con amigos del barrio.  A los 13 años formó su primera banda con chicos del barrio. Ensayaban en la casa de los Mollo y su primera presentación fue en un festival de rock en el Cine Teatro Helios de Ciudad Jardín. Como la banda no tenía nombre, el organizador del evento le puso el nombre “Marma”.\n Durante el día Ricardo trabajaba en la zapatería de su padre, y por las noches ensayaba con MAM en el sótano de Page y Madariaga, en El Palomar; lugar que con los años sería el refugio de Sumo. En 1980, la banda se disolvió; de todos modos, Ricardo continuó tocando y ensayando con amigos, y uno de ellos era el bajista Diego Arnedo. Quedó impresionado por el sonido de la banda y se acercó a ensayar con ellos. En 1984, Arnedo sumó a Ricardo Mollo, y con esta formación grabarían cuatro discos de estudio: Divididos por la felicidad, Llegando los monos, After Chabón y Fiebre. Con Sumo alcanzaron un lugar estelar en la historia del rock nacional y fueron la banda referente del under en los ochenta. Cada vez con más seguidores, tocaron en Obras y otros lugares emblemáticos, hasta la muerte de Luca en 1987.\n El 5 de marzo de 1988, ya sin Luca Prodan en escena, Sumo se presenta en el Chateau Rock, con Daffunchio, Mollo, Pettinato, Arnedo y Troglio.  Ricardo Mollo (guitarra) y Diego Arnedo (bajo), junto al baterista Gustavo Collado (ex La Sobrecarga) forman “La División”, que luego cambiaría de nombre para pasar a ser “Divididos”. Siempre con Mollo y Arnedo al frente de la banda, la batería alternó con Federico Gil Solá, Jorge Araujo y Catriel Ciavarella, hasta la actualidad. En la década del ’90, Divididos se transformó en una de las bandas más importantes del rock nacional; en la actualidad continúa en la máxima escena de la música de Argentina. En sus 30 años de trayectoria, grabó 9 discos de estudio: 40 dibujos ahí en el piso, Acariciando lo áspero, La era de la boludez, Otroletravaladna, Gol de mujer, Narigón del siglo, Vengo del placard de otro, Amapola del 66 y Haciendo cosas raras. Realizaron giras por todo el continente y son considerados el trío más potente del país. Ruta del Rock: Entre las vías del Ferrocarril San Martín y la estación de El Palomar funcionaba el tradicional bar La Chapita, punto de encuentro para cientos de pasajeros que paraban para comer algo o beber un trago antes de subir o bajar del tren. En 1993, Divididos homenajeó a este lugar en la letra de ¿Qué ves?, canción icónica del nuevo rock nacional de los ‘90, famosa también por ser el soundtrack de la película Comodines."
   },
   {
     "id": "5",
@@ -201,7 +235,8 @@
         "año": 2007
       }
     ],
-    "imagen de la banda": "./images/Bandas/lospiojos.jpeg"
+    "imagen de la banda": "./images/Bandas/lospiojos.jpeg",
+    "descripcion": ""
   },
   {
     "id": "6",
@@ -241,6 +276,7 @@
         "año": 1996
       }
     ],
-    "imagen de la banda": "./images/Bandas/sodaestereo.png"
+    "imagen de la banda": "./images/Bandas/sodaestereo.png",
+    "descripcion": ""
   }
 ]

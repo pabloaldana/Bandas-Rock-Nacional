@@ -1,13 +1,14 @@
 import React from "react";
 
-const Input = (props) => {
+const Input = ({ label, value, onChange, placeholder }) => {
   return (
     <input
-      type={props.type}
-      value={props.value}
-      onChange={props.onChange}
-      placeholder={"Buscar Banda"}
-      className="px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500"
+      type="text"
+      value={value}
+      onChange={onChange}
+      placeholder={placeholder}
+      label={label}
+      className="px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500 "
     />
   );
 };
