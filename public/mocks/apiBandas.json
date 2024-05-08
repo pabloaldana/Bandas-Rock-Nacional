@@ -64,6 +64,9 @@
       }
     ],
     "imagenes":[
+      "https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
+        ],
+    "imagenes":[
 	"https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
     ],
     "imagen de la banda": "./images/Bandas/larenga.jpeg",
@@ -146,7 +149,7 @@
   {
     "id": "4",
     "name": "Divividos",
-    "año de creacion": "",
+    "año de creacion": "1988",
     "integrantes": [
       {
         "nombre": "Ricardo Mollo",
@@ -225,7 +228,8 @@
     "discografia": [
       {
         "album": "Chactuchac",
-        "año": 1993
+        "año": 1993,
+        "imagen": ""
       },
       {
         "album": "Ay Ay Ay",
