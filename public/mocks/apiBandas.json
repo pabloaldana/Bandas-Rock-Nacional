@@ -3,6 +3,12 @@
     "id": "1",
     "name": "La Renga",
     "año de creacion": "1982",
+    "integrantes":[
+      {
+      "nombre":"Gustavo *Chizzo's* Napoli",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/3/36/Ricardo_Mollo.jpg"
+      }
+    ],
     "discografia": [
       {
         "album": "Esquivando Charcos",
@@ -45,6 +51,9 @@
         "año": 2014
       }
     ],
+    "imagenes":[
+      "https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
+        ],
     "imagen de la banda": "./images/Bandas/larenga.jpeg",
     "descripcion": "La Renga es una banda de rock argentino formada en Mataderos, Buenos Aires, en 1988. Está compuesta por Chizzo (guitarra y voz), Tete (bajo) y Tanque (batería). Su música se caracteriza por un estilo potente y enérgico que fusiona elementos de rock, hard rock y blues rock. La banda ha ganado una enorme base de seguidores gracias a sus letras poéticas y reflexivas, así como a sus poderosas actuaciones en vivo. A lo largo de su carrera, La Renga ha sido reconocida por abordar una amplia gama de temas en sus canciones, desde la crítica social hasta la introspección personal.Con su estilo inconfundible y su ferviente base de seguidores, La Renga continúa siendo una fuerza dominante en el panorama musical argentino, demostrando su perdurable relevancia y su compromiso con la autenticidad artística."
   },
@@ -125,7 +134,7 @@
   {
     "id": "4",
     "name": "Divividos",
-    "año de creacion": "",
+    "año de creacion": "1988",
     "integrantes": [
       {
         "nombre": "Ricardo Mollo",
@@ -204,7 +213,8 @@
     "discografia": [
       {
         "album": "Chactuchac",
-        "año": 1993
+        "año": 1993,
+        "imagen": ""
       },
       {
         "album": "Ay Ay Ay",
