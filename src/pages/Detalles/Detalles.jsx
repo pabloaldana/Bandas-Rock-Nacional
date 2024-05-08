@@ -60,7 +60,7 @@ function Detalles() {
             <div className="mt-5 py-5">
               {banda.integrantes && (
                 <div>
-                  <h2 className="text-white text-2xl">Integrantes:</h2>
+                  <h2 className="text-white text-2xl">Integrantes</h2>
                   <div className="flex flex-wrap justify-center">
                     {banda.integrantes.map((integrante, index) => (
                       <div
@@ -79,9 +79,28 @@ function Detalles() {
                 </div>
               )}
             </div>
-
+            <div id="discografia" className="mb-5">
+              <h3 className="text-white text-2xl">Discografía</h3>
+              <div className="flex flex-wrap justify-center">
+                {banda.discografia.map((album, index) => (
+                  <div
+                    key={index}
+                    className="flex flex-col items-center mx-4 my-2"
+                  >
+                    <img
+                      src={album.imagen}
+                      alt={album.album}
+                      className="w-40 h-40 object-cover rounded-lg"
+                    />
+                    <p className="mt-2 text-white">
+                      {album.album} ({album.año})
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
             <div className="mb-5 mt-5 pb-5">
-              <h3 className="text-white">Galería</h3>
+              <h3 className="text-white text-2xl">Galería</h3>
               <div className="flex flex-wrap justify-center">
                 {banda.imagenes.map((imagen, index) => (
                   <img
