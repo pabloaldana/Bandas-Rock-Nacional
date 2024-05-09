@@ -341,31 +341,31 @@
     "integrantes":[
       {
         "nombre":"Andrés Ciro Martínez",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Ciro_en_2009_%28cropped%29.jpg"
       },
       {
         "nombre":"Gustavo \"Tavo\"  Kupinski",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://media.lacapital.com.ar/p/e490068bf2abbe691cc0445c1deba358/adjuntos/203/imagenes/006/337/0006337949/642x0/smart/01-05-piojojpg.jpg"
       },
       {
         "nombre":"Miguel Ángel \"Micky\" Rodríguez",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Miguel_%C3%81ngel_Rodr%C3%ADguez_en_2015_%28cropped%29.jpg/220px-Miguel_%C3%81ngel_Rodr%C3%ADguez_en_2015_%28cropped%29.jpg"
       },
       {
         "nombre":"Sebastián Cardero",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://statics.bigbangnews.com/2016/06/crop/b408b12d4454a34eb8923b0c6a2e4d13__993x610.webp"
       },
       {
         "nombre":"Juan Ignacio Bisio",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"http://www.complotargentino.com/noticia_archivo/2193.jpg"
       },
       {
         "nombre":"Miguel de Ipola",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/342/0000342284.jpg"
       },
       {
           "nombre":"Facundo Farías Gómez",
-          "foto":"../images/musicogenerico.jpg"
+          "foto":"http://otracancion.com.ar/wp-content/uploads/2016/06/chango_x-seba-klein_2810.jpg"
         }
     
     ],
@@ -435,15 +435,15 @@
     "integrantes":[
       {
         "nombre":"Gustavo Ceratti",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://indiehoy.com/wp-content/uploads/2018/08/gustavo-cerati.jpg"
       },
       {
         "nombre":"Charly Alberti",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://pics.filmaffinity.com/charly_alberti-106867243671607-nm_large.jpg"
       },
       {
         "nombre":"Zeta Bosio",
-        "foto":"../images/musicogenerico.jpg"
+        "foto":"https://upload.wikimedia.org/wikipedia/commons/0/00/Soda_Stereo_en_Santiago_de_Chile_4.jpg"
       }
     ],
     "discografia": [
