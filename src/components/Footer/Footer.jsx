@@ -92,7 +92,7 @@ const Footer = () => {
             />
             <h1 className="ml-2">
               <a href="https://github.com/praanqn?tab=repositories">
-                Alvares Percy
+                Alvarez Percy
               </a>
             </h1>
           </div>
