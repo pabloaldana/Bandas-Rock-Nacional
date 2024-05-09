@@ -101,6 +101,34 @@
     "id": "2",
     "name": "Cielo Razzo",
     "creacion": "1993",
+    "integrantes":[
+      {
+        "nombre":"Pablo Pino",
+        "foto":"https://www.cronica.com.ar/img/2022/09/20/pablo_pino_1_crop1663712591151.jpg"
+      },
+      {
+        "nombre":"Diego Almirón",
+        "foto":"data:image/jpeg;base64,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"
+      },
+      {
+        "nombre":"Fernando Aime",
+        "foto":"https://www.pagina12.com.ar/fotos/espectaculos/20090105/notas_e/na23fo01.jpg"
+      },
+      {
+        "nombre":"Cristian Narváez",
+        "foto":"https://instagram.fnqn11-2.fna.fbcdn.net/v/t39.30808-6/354062749_2951909158286077_8122829177587754674_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjAweDEwNjcuc2RyLmYzMDgwOCJ9&_nc_ht=instagram.fnqn11-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=eRnZZHcLrdsQ7kNvgFyjmhG&edm=ANTKIIoAAAAA&ccb=7-5&oh=00_AfBaomdKB1ojr37Fj7FMgMNQckeL9jsfLSJr9GrnGZb1Rw&oe=66422190&_nc_sid=cf751b"
+      },
+      {
+        "nombre":"Javier Robledo",
+        "foto":"https://www.conclusion.com.ar/wp-content/uploads/2022/11/javi3.jpg"
+      },
+      {
+        "nombre":"Marcelo Vizarri",
+        "foto":"https://fabriziopedrotti.files.wordpress.com/2018/04/cielo1.jpg"
+      }
+      
+
+    ],
     "discografia": [
       {
         "album":"Buenas",
@@ -163,6 +191,28 @@
     "id": "3",
     "name": "Patricio Rey y sus Redonditos de Ricota",
     "creacion": "1976",
+    "integrantes":[
+      {
+        "nombre":"Indio Solari",
+        "foto":"data:image/jpeg;base64,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"
+      },
+      {
+        "nombre":"Skay Beilinson",
+        "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Skay_Beilinson_en_Resistencia%2C_Chaco%2C_2023.jpg/390px-Skay_Beilinson_en_Resistencia%2C_Chaco%2C_2023.jpg"
+      },
+      {
+        "nombre":"Semilla Bucciarelli",
+        "foto":"https://www.cmtv.com.ar/imagenes_artistas/2155.webp?Semilla%20Bucciarelli"
+      },
+      {
+        "nombre":"Sergio Dawi",
+        "foto":"https://www.cmtv.com.ar/imagenes_artistas/2158.webp?Sergio%20Dawi"
+      },
+      {
+        "nombre":"Walter Sidotti",
+        "foto":"https://www.lavoz.com.ar/resizer/RaRx9L_kTWf6z-z4GT2LnfK77RI=/0x5:1100x723/980x640/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/SZD4MRSQ3ZGIFPJYWNZSOHCB6A.jpg"
+      }
+    ],
     "discografia": [
       {
         "album": "Gulp!",
@@ -210,6 +260,7 @@
         "año": 2000
       }
     ],
+   
     "imagenes":[
       "https://cdn.12min.com/books/books_background/61259_Patricio_Rey_y_sus_Redonditos_de_Ricota.site_cover.jpg?1610643133",
       "https://i0.wp.com/oktubre.fm/wp-content/uploads/2022/05/losredo.jpg",
@@ -288,6 +339,38 @@
     "id": "5",
     "name": "Los Piojos",
     "año de creacion": "1988",
+    "integrantes":[
+      {
+        "nombre":"Andrés Ciro Martínez",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Gustavo \"Tavo\"  Kupinski",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Miguel Ángel \"Micky\" Rodríguez",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Sebastián Cardero",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Juan Ignacio Bisio",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Miguel de Ipola",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+          "nombre":"Facundo Farías Gómez",
+          "foto":"../images/musicogenerico.jpg"
+        }
+    
+    ],
+
     "discografia": [
       {
         "album": "Chactuchac",
@@ -350,6 +433,20 @@
     "id": "6",
     "name": "Soda Stereo",
     "año de creacion": "1982",
+    "integrantes":[
+      {
+        "nombre":"Gustavo Ceratti",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Charly Alberti",
+        "foto":"../images/musicogenerico.jpg"
+      },
+      {
+        "nombre":"Zeta Bosio",
+        "foto":"../images/musicogenerico.jpg"
+      }
+    ],
     "discografia": [
       {
         "album": "Soda Stereo",
