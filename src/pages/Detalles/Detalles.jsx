@@ -37,15 +37,15 @@ function Detalles() {
     <div className="flex flex-col min-h-screen">
       <Header />
 
-      <div className="flex-grow bg-cover bg-center bg-black ">
+      <div className="flex-grow bg-cover bg-center bg-[url(https://img.freepik.com/foto-gratis/fondo-habitacion-vacia-digital-futurista-moderno_1409-4974.jpg?t=st=1715221324~exp=1715224924~hmac=a3357bc105194ac1674eec79ac09d42f06c6a8567e07045c97f35b0f2edebe78&w=1380)]  ">
         {banda && (
           <div className="mt-4 ">
-            <h1 className="font-sans underline text-4xl text-white ">
+            <h1 className="font-sans underline text-5xl text-white ">
               {banda.name}
             </h1>
 
             <div className="mb-5 mt-7 w-3/4 mx-auto ">
-              <div className="bg-gray p-6 rounded-lg shadow-lg shadow-red-500/50 border ">
+              <div className="bg-black p-6 rounded-lg shadow-lg shadow-red-500/50 border ">
                 {banda.descripcion.split("\n").map((paragraph, index) => (
                   <p
                     key={index}
@@ -60,7 +60,7 @@ function Detalles() {
             <div className="mt-5 py-5">
               {banda.integrantes && (
                 <div>
-                  <h2 className="text-white text-2xl font-sans">Integrantes</h2>
+                  <h2 className="text-white text-3xl font-sans">Integrantes</h2>
                   <div className="flex flex-wrap justify-center">
                     {banda.integrantes.map((integrante, index) => (
                       <div
@@ -79,8 +79,10 @@ function Detalles() {
                 </div>
               )}
             </div>
-            <div id="discografia" className="mb-5">
-              <h3 className="text-white text-2xl font-sans">Discografía</h3>
+            <div id="discografia" className="mb-5 mt-2">
+              <h3 className="text-white text-3xl font-sans mb-2 border-t-2">
+                Discografía
+              </h3>
               <div className="flex flex-wrap justify-center">
                 {banda.discografia.map((album, index) => (
                   <div
@@ -99,8 +101,8 @@ function Detalles() {
                 ))}
               </div>
             </div>
-            <div className="mb-5 mt-5 pb-5">
-              <h3 className="text-white text-2xl">Galería</h3>
+            <div className="mb-5 mt-5 pb-5 border-t-2">
+              <h3 className="text-white text-2xl mt-2">Galería</h3>
               <div className="flex flex-wrap justify-center">
                 {banda.imagenes.map((imagen, index) => (
                   <img
