@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Bandas De Rock Nacional
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Nuestro proyecto es tu pasaporte al fascinante mundo del rock nacional argentino. Sumérgete en la vibrante historia y el legado musical de las bandas más emblemáticas, desde los clásicos eternos hasta las nuevas voces emergentes. Explora biografías, discografías y detalles fascinantes de tus bandas favoritas, todo en una experiencia intuitiva y visualmente cautivadora. Únete a nosotros para celebrar la pasión, la creatividad y la diversidad del rock argentino.
 
-## Available Scripts
+## Autores
 
-In the project directory, you can run:
+- [Alvarez Percy](https://github.com/alvarezpercy)
+- [Aldana Pablo](https://github.com/aldanapablo)
 
-### `npm start`
+# Guia para ejecutar el proyecto paso a paso
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Primero se debera clonar el proyecto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Abre una terminal en tu sistema.**
+2. **Navega hasta el directorio donde deseas clonar el proyecto.**
+3. **Ejecuta el siguiente comando para clonar el repositorio:**
 
-### `npm test`
+```bash
+git clone https://github.com/pabloaldana/Bandas-Rock-Nacional.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instalación de Dependencias
 
-### `npm run build`
+Para instalar las dependencias del proyecto, sigue estos pasos:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Navega hasta el directorio del proyecto:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+cd Bandas-Rock-Nacional
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Ejecuta el siguiente comando para instalar las dependencias utilizando npm:**
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Ejecutar el proyecto**
+   Una vez clonado el proyecto e instalado las dependencias se puede ejecutar el proyecto con el siguiente comando:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Este comando iniciara la aplicacion y la abrira en tu navegador favorito.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Tecnologías utilizadas
 
-## Learn More
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/web/guides/quick-start)
 
-### Code Splitting
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Home
+  ![Home](/public/images/Screenshots/home.png)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Detalles
+  ![Detalles1](/public/images/Screenshots/detalles1.png)
+  ![Detalles2](/public/images/Screenshots/detalles3.png)
