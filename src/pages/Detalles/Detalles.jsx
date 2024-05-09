@@ -94,7 +94,7 @@ function Detalles() {
                       alt={album.album}
                       className="w-40 h-40 object-cover rounded-lg"
                     />
-                    <p className="mt-2 text-white font-sans">
+                    <p className="mt-2 text-white text-xl font-sans font-bold">
                       {album.album} ({album.año})
                     </p>
                   </div>
