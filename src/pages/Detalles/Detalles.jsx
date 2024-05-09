@@ -102,7 +102,7 @@ function Detalles() {
               </div>
             </div>
             <div className="mb-5 mt-5 pb-5 border-t-2">
-              <h3 className="text-white text-2xl mt-2">Galería</h3>
+              <h3 className="text-white text-3xl mt-2">Galería</h3>
               <div className="flex flex-wrap justify-center">
                 {banda.imagenes.map((imagen, index) => (
                   <img
