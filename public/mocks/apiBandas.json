@@ -3,22 +3,22 @@
     "id": "1",
     "name": "La Renga",
     "año de creacion": "1982",
-    "integrantes":[
+    "integrantes": [
       {
-      "nombre":"Gustavo \"Chizzo's\" Napoli",
-      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gustavo_Napoli_en_2004_2014-05-29_21-41.jpeg/250px-Gustavo_Napoli_en_2004_2014-05-29_21-41.jpeg"
+        "nombre": "Gustavo \"Chizzo's\" Napoli",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gustavo_Napoli_en_2004_2014-05-29_21-41.jpeg/250px-Gustavo_Napoli_en_2004_2014-05-29_21-41.jpeg"
       },
       {
-        "nombre":"Gabriel \"Tete\" Iglesias",
-        "foto":"https://scontent.fnqn11-2.fna.fbcdn.net/v/t39.30808-6/272953177_331692305632910_1827463924986804568_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=De96nUH713AQ7kNvgEHcfdX&_nc_ht=scontent.fnqn11-2.fna&oh=00_AfAUebXvPlmRe04-v6F-7hOMaQPxS4CMWAYUheYnLM4w0Q&oe=6641D09E"
+        "nombre": "Gabriel \"Tete\" Iglesias",
+        "foto": "https://scontent.fnqn11-2.fna.fbcdn.net/v/t39.30808-6/272953177_331692305632910_1827463924986804568_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=De96nUH713AQ7kNvgEHcfdX&_nc_ht=scontent.fnqn11-2.fna&oh=00_AfAUebXvPlmRe04-v6F-7hOMaQPxS4CMWAYUheYnLM4w0Q&oe=6641D09E"
       },
       {
-        "nombre":"Jorge \"Tanque\" Iglesias",
-        "foto":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VTcAO4zp-562gbN2a_4G5WWIfdsHcJPoiYKPBvYXVVrlrSrbvtYCEwyBHiYhjtuKkiDLwr6TZ0PrA6VwjYH83Lg0YZUPkvOdGgPtaKFLZEhx70-_8JZGmfcjyqU6AXaMqKin8qgVyKo/s400/Nota-Tanque.jpg"
+        "nombre": "Jorge \"Tanque\" Iglesias",
+        "foto": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VTcAO4zp-562gbN2a_4G5WWIfdsHcJPoiYKPBvYXVVrlrSrbvtYCEwyBHiYhjtuKkiDLwr6TZ0PrA6VwjYH83Lg0YZUPkvOdGgPtaKFLZEhx70-_8JZGmfcjyqU6AXaMqKin8qgVyKo/s400/Nota-Tanque.jpg"
       },
       {
-        "nombre":"Manuel \"Manu\" Varela",
-        "foto":"https://scontent.fnqn11-2.fna.fbcdn.net/v/t1.18169-9/25987_397460150345154_623837964_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qWCotbJ2ZzQQ7kNvgGDnQbA&_nc_ht=scontent.fnqn11-2.fna&oh=00_AfC3SbZ1RH457epV0kteYV7i66qbKYIuHlBPftx5pg7qbA&oe=66637842"
+        "nombre": "Manuel \"Manu\" Varela",
+        "foto": "https://scontent.fnqn11-2.fna.fbcdn.net/v/t1.18169-9/25987_397460150345154_623837964_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qWCotbJ2ZzQQ7kNvgGDnQbA&_nc_ht=scontent.fnqn11-2.fna&oh=00_AfC3SbZ1RH457epV0kteYV7i66qbKYIuHlBPftx5pg7qbA&oe=66637842"
       }
     ],
     "discografia": [
@@ -63,11 +63,9 @@
         "año": 2014
       }
     ],
-    "imagenes":[
+
+    "imagenes": [
       "https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
-        ],
-    "imagenes":[
-	"https://inforama.com.ar/wp-content/uploads/2023/03/divididos-2-752x423.webp"
     ],
     "imagen de la banda": "./images/Bandas/larenga.jpeg",
     "descripcion": "La Renga es una banda de rock argentino formada en Mataderos, Buenos Aires, en 1988. Está compuesta por Chizzo (guitarra y voz), Tete (bajo) y Tanque (batería). Su música se caracteriza por un estilo potente y enérgico que fusiona elementos de rock, hard rock y blues rock. La banda ha ganado una enorme base de seguidores gracias a sus letras poéticas y reflexivas, así como a sus poderosas actuaciones en vivo. A lo largo de su carrera, La Renga ha sido reconocida por abordar una amplia gama de temas en sus canciones, desde la crítica social hasta la introspección personal.Con su estilo inconfundible y su ferviente base de seguidores, La Renga continúa siendo una fuerza dominante en el panorama musical argentino, demostrando su perdurable relevancia y su compromiso con la autenticidad artística."
